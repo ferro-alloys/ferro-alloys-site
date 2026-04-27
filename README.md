@@ -1,2 +1,2 @@
 # ferro-alloys-site
-global ferro-alloys market intelligence, trading, company directory, CRM, and conference platform.
+Ferro-Alloys.com is a global ferro-alloys market intelligence, trading, company directory, CRM, and conference platform.
